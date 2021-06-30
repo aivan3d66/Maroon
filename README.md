@@ -1,6 +1,5 @@
-# «Магазин косметики Maroon»
+# Project «Cosmetic store Maroon»
 
-- cвёрстаны 3 страницы: главная, каталог и карточка продукта
-- разметка по БЭМ
-- адаптивные сетки (Desktop, tablet, mobile)
-- используется адаптивная, векторная и ретиновая графика
+- was created 3 pages: main, catalog and product card
+- BEM markup
+- adaptive Web Design (Desktop, tablet, mobile)
